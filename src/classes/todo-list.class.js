@@ -27,13 +27,12 @@ export class TodoList {
                
                 break;
             }
-
         }
 
     }
 
     eliminarCompletados() {
-
+        this.todos = this.todos.filter( todo => !todo.completado )
     }
 
 }
