@@ -71,10 +71,10 @@ body {
 	position: absolute;
 	top: -140px;
 	width: 100%;
-	font-size: 80px;
+	font-size: 70px;
 	font-weight: 200;
 	text-align: center;
-	color: #b83f45;
+	color: #1771e7;
 	-webkit-text-rendering: optimizeLegibility;
 	-moz-text-rendering: optimizeLegibility;
 	text-rendering: optimizeLegibility;
@@ -296,6 +296,7 @@ body {
 	position: absolute;
 	right: 0;
 	left: 0;
+	color: #1771e7;
 }
 
 .filters li {
